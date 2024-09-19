@@ -1,0 +1,16 @@
+C:\Users\jarod\source\repos\CharacterBinaryTree\CharacterBinaryTree\obj\Debug\net8.0-windows\CharacterBinaryTree.Form1.resources
+C:\Users\jarod\source\repos\CharacterBinaryTree\CharacterBinaryTree\obj\Debug\net8.0-windows\CharacterBinaryTree.csproj.GenerateResource.cache
+C:\Users\jarod\source\repos\CharacterBinaryTree\CharacterBinaryTree\obj\Debug\net8.0-windows\CharacterBinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarod\source\repos\CharacterBinaryTree\CharacterBinaryTree\obj\Debug\net8.0-windows\CharacterBinaryTree.AssemblyInfoInputs.cache
+C:\Users\jarod\source\repos\CharacterBinaryTree\CharacterBinaryTree\obj\Debug\net8.0-windows\CharacterBinaryTree.AssemblyInfo.cs
+C:\Users\jarod\source\repos\CharacterBinaryTree\CharacterBinaryTree\obj\Debug\net8.0-windows\CharacterBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\jarod\source\repos\CharacterBinaryTree\CharacterBinaryTree\bin\Debug\net8.0-windows\CharacterBinaryTree.exe
+C:\Users\jarod\source\repos\CharacterBinaryTree\CharacterBinaryTree\bin\Debug\net8.0-windows\CharacterBinaryTree.deps.json
+C:\Users\jarod\source\repos\CharacterBinaryTree\CharacterBinaryTree\bin\Debug\net8.0-windows\CharacterBinaryTree.runtimeconfig.json
+C:\Users\jarod\source\repos\CharacterBinaryTree\CharacterBinaryTree\bin\Debug\net8.0-windows\CharacterBinaryTree.dll
+C:\Users\jarod\source\repos\CharacterBinaryTree\CharacterBinaryTree\bin\Debug\net8.0-windows\CharacterBinaryTree.pdb
+C:\Users\jarod\source\repos\CharacterBinaryTree\CharacterBinaryTree\obj\Debug\net8.0-windows\CharacterBinaryTree.dll
+C:\Users\jarod\source\repos\CharacterBinaryTree\CharacterBinaryTree\obj\Debug\net8.0-windows\refint\CharacterBinaryTree.dll
+C:\Users\jarod\source\repos\CharacterBinaryTree\CharacterBinaryTree\obj\Debug\net8.0-windows\CharacterBinaryTree.pdb
+C:\Users\jarod\source\repos\CharacterBinaryTree\CharacterBinaryTree\obj\Debug\net8.0-windows\CharacterBinaryTree.genruntimeconfig.cache
+C:\Users\jarod\source\repos\CharacterBinaryTree\CharacterBinaryTree\obj\Debug\net8.0-windows\ref\CharacterBinaryTree.dll
